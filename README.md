@@ -32,4 +32,4 @@ Become a professional .Net web developer<br>
 ## 📋 Projects
 
 - **[ForecastApp](https://github.com/quocthinhluu97/ForecastApp)**<br>
-_A simple web app that provides weather information of cities over the world using [openweathermap API](https://openweathermap.org/api)_
+_A simple web app that provides weather information of cities over the world using [openweathermap API](https://openweathermap.org/api), docker container & ASP.Net Core_
