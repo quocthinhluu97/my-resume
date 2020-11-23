@@ -31,7 +31,7 @@ Become a professional .Net web developer<br>
 
 - Web programming using C# & ASP.NET Platform 🚀<br>
 - Using Linux-based OS 🐧<br>
-- Docker container :whale:<br>
+- Docker container 🐳<br>
 - English – TOEIC Listening & Reading 835 ✔️<br>
 <br>
 
