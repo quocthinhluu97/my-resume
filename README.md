@@ -5,7 +5,7 @@
 Graduate student at [University of Information Technology](https://www.uit.edu.vn/)<br>
 **Major:** [Information Security](https://dictionary.cambridge.org/vi/dictionary/english/information)<br> 
 **Degree Classification:** [Good](https://dictionary.cambridge.org/vi/dictionary/english/good)<br>
-[Email](mailto:quocthinhluu97@gmail.com) :mailbox: | [Github](https://github.com/quocthinhluu97/) 💻 | [**0948595047**](https://dictionary.cambridge.org/vi/dictionary/english/good) :iphone:<br>
+[Email](mailto:quocthinhluu97@gmail.com) :mailbox: | [Github](https://github.com/quocthinhluu97/) 💻 | [0948595047](https://dictionary.cambridge.org/vi/dictionary/english/good) :iphone:<br>
 <br>
 
 ## 💡 Objectives
@@ -32,5 +32,7 @@ Become a professional .Net web developer<br>
 
 ## 📋 Projects
 
-- **[ForecastApp](https://github.com/quocthinhluu97/ForecastApp)**<br>
-_A simple web app that provides weather information of cities over the world using [openweathermap API](https://openweathermap.org/api), docker container & ASP.Net Core_
+- **[ForecastApp](https://github.com/quocthinhluu97/ForecastApp)**
+_A simple web app that provides weather information of cities over the world using [openweathermap API](https://openweathermap.org/api), docker container & ASP.Net Core_<br>
+- **[MovieStore](https://github.com/quocthinhluu97/MovieStore)**<br>
+_A website sells movies written in ASP.Net Core using MVC model_<br>
