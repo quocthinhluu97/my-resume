@@ -1,10 +1,6 @@
 
 # Quoc Thinh Luu
 
-## 💎 Applying position
-Fresher .Net Web<br>
-<br>
-
 **DoB**: March 10 1997<br>
 Graduate student at [University of Information Technology](https://www.uit.edu.vn/)<br>
 **Major:** [Information Security](https://dictionary.cambridge.org/vi/dictionary/english/information)<br> 
@@ -12,9 +8,14 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 [Email](mailto:quocthinhluu97@gmail.com) :mailbox: | [Github](https://github.com/quocthinhluu97/) 💻 | [0948595047](https://dictionary.cambridge.org/vi/dictionary/english/good) :iphone:<br>
 <br>
 
+## 💎 Applying position
+Fresher .Net Web<br>
+<br>
+
 ## 💡 Objectives
 Become a professional .Net web developer<br>
 <br>
+
 ## 👩🏼‍💻 Technical Experience
 
 **Internship Unix System Admin & Fresher Monitoring Admin** @ [Linkbynet Vietnam](https://www.linkbynet.com/) _(Jul 2019 - Jul 2020)_ <br>
