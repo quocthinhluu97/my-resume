@@ -20,7 +20,7 @@ Degree Classification: [Good](https://dictionary.cambridge.org/vi/dictionary/eng
 **Complete the CCNA ROUTING & SWITCHING course** @ [NEO Traing Center](https://neo.edu.vn/) _(Nov 2017)_ <br>
 **Complete the CCNP ROUTING & SWITCHING course** @ [NEO Traing Center](https://neo.edu.vn/) _(Apr 2018)_ <br>
 
-##💬 Skills
+## 💬 Skills
 
 **Web programming using C# & ASP.NET Platform 🚀**<br>
 **Using Linux-based OS 🐧**<br>
