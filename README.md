@@ -25,7 +25,8 @@ Become a professional .Net web developer<br>
 ## 💬 Skills
 
 - Web programming using C# & ASP.NET Platform 🚀<br>
-- Using Linux-based OS 🐧**<br>
+- Using Linux-based OS 🐧<br>
+- Docker container :whale:<br>
 - English – TOEIC Listening & Reading 835 ✔️<br>
 <br>
 
