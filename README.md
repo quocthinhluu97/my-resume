@@ -9,7 +9,7 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 <br>
 
 ## 💎 Applying position
-Fresher .Net Web<br>
+**Fresher .Net Web**<br>
 <br>
 
 ## 💡 Objectives
