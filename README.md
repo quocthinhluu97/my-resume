@@ -26,5 +26,10 @@ Become a professional .Net web developer<br>
 
 - Web programming using C# & ASP.NET Platform 🚀<br>
 - Using Linux-based OS 🐧**<br>
-- English – TOEIC Listening & Reading 835 ✔️**<br>
+- English – TOEIC Listening & Reading 835 ✔️<br>
 <br>
+
+## 📋 Projects
+
+- **[ForecastApp](https://github.com/quocthinhluu97/ForecastApp)**<br>
+_A simple web app that provides weather information of cities over the world using [openweathermap API](https://openweathermap.org/api)_
