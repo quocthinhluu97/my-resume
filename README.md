@@ -1,8 +1,8 @@
 
 # Quoc Thinh Luu
 
-Information Security graduate student at [University of Information Technology](https://www.uit.edu.vn/)
-Degree Classification: <span style="color:green">Good</span>
+Information Security graduate student at [University of Information Technology](https://www.uit.edu.vn/)<br>
+Degree Classification:[Good](https://dictionary.cambridge.org/vi/dictionary/english/good)
 [Email](mailto:quocthinhluu97@gmail.com) | [Github](https://github.com/quocthinhluu97/)
 
 ## 👩🏼‍💻 Technical Experience
