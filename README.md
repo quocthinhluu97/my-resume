@@ -3,7 +3,7 @@
 
 Graduate student at [University of Information Technology](https://www.uit.edu.vn/)<br>
 Major: [Information Security](https://dictionary.cambridge.org/vi/dictionary/english/information)<br> 
-Degree: Classification:[Good](https://dictionary.cambridge.org/vi/dictionary/english/good)<br>
+Degree Classification: [Good](https://dictionary.cambridge.org/vi/dictionary/english/good)<br>
 [Email](mailto:quocthinhluu97@gmail.com) | [Github](https://github.com/quocthinhluu97/)
 
 ## 👩🏼‍💻 Technical Experience
@@ -14,3 +14,8 @@ Degree: Classification:[Good](https://dictionary.cambridge.org/vi/dictionary/eng
 
 **Complete the CCNA ROUTING & SWITCHING course** @ [NEO Traing Center](https://neo.edu.vn/) _(Nov 2017)_ <br>
 **Complete the CCNP ROUTING & SWITCHING course** @ [NEO Traing Center](https://neo.edu.vn/) _(Apr 2018)_ <br>
+
+##💬 Skills
+**Web programming using C# & ASP.NET Platform 🚀**
+**Using Linux-based OS 🐧**
+**English – TOEIC Listening & Reading 835 ✔️**
