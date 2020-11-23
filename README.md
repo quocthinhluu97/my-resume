@@ -1,6 +1,9 @@
 
 # Quoc Thinh Luu
-## Fresher .Net Web
+
+## 💎 Applying position
+Fresher .Net Web<br>
+<br>
 
 **DoB**: March 10 1997<br>
 Graduate student at [University of Information Technology](https://www.uit.edu.vn/)<br>
