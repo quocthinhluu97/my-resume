@@ -23,8 +23,8 @@ Become a professional .Net web developer<br>
 
 ## 🏆 Certifications
 
-- Complete the CCNA ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Nov 2017)_ <br>
-- Complete the CCNP ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Apr 2018)_ <br>
+- **Complete the CCNA ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Nov 2017)_ <br>
+- **Complete the CCNP ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Apr 2018)_ <br>
 <br>
 
 ## 💬 Skills
