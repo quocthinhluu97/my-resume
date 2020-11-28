@@ -13,7 +13,7 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 <br>
 
 ## 💡 Objectives
-Become a professional .Net web developer<br>
+Become a **professional .Net web developer**<br>
 <br>
 
 ## 👩🏼‍💻 Technical Experience
@@ -29,7 +29,7 @@ Become a professional .Net web developer<br>
 
 ## 💬 Skills
 
-- Web programming using C# & ASP.NET Platform 🚀<br>
+- Web programming using **C# & ASP.NET Platform** 🚀<br>
 - Using Linux-based OS 🐧<br>
 - Docker container 🐳<br>
 - English – TOEIC Listening & Reading 835 ✔️<br>
