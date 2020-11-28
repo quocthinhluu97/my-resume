@@ -13,7 +13,7 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 <br>
 
 ## 💡 Objectives
-Become a **professional .Net web developer**<br>
+Become a professional .Net web developer<br>
 <br>
 
 ## 👩🏼‍💻 Technical Experience
@@ -32,7 +32,9 @@ Become a **professional .Net web developer**<br>
 - Web programming using **C# & ASP.NET Platform** 🚀<br>
 - Using Linux-based OS 🐧<br>
 - Docker container 🐳<br>
-- English – TOEIC Listening & Reading 835 ✔️<br>
+- **Microsoft SQL Database** 🚅<br>
+- **Restful API** 🌐<br>
+- **English – TOEIC Listening & Reading 835** ✔️<br>
 <br>
 
 ## 📋 Projects
@@ -40,4 +42,4 @@ Become a **professional .Net web developer**<br>
 - **[ForecastApp](https://github.com/quocthinhluu97/ForecastApp)**<br>
 _A simple web app that provides weather information of cities over the world using [openweathermap API](https://openweathermap.org/api), docker container & **ASP.Net Core**_<br>
 - **[MovieStore](https://github.com/quocthinhluu97/MovieStore)**<br>
-_A website sells movies written in **ASP.Net Core using MVC model**_<br>
+_A website sells movies written in **ASP.Net Core using MVC model, MSSQL Database, Restful API, Entity Framework**_<br>
