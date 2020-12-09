@@ -42,4 +42,4 @@ Become a professional .Net web developer<br>
 - **[ForecastApp](https://github.com/quocthinhluu97/ForecastApp)**<br>
 _A simple web app that provides weather information of cities over the world using [openweathermap API](https://openweathermap.org/api), docker container & **ASP.Net Core**_<br>
 - **[MovieStore](https://github.com/quocthinhluu97/MovieStore)**<br>
-_A website sells movies written in **ASP.Net Core using MVC model, MSSQL Database, Restful API, Entity Framework**_<br>
+_A website sells movies written in **ASP.Net Core using MVC model, MSSQL Database, Entity Framework**_<br>
