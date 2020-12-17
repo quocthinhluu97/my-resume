@@ -19,6 +19,7 @@ Become a professional .Net web developer<br>
 ## 👩🏼‍💻 Technical Experience
 
 **Internship Unix System Admin & Fresher Monitoring Admin** @ [Linkbynet Vietnam](https://www.linkbynet.com/) _(Jul 2019 - Jul 2020)_ <br>
+**ASP.NET Desktop App Developer** @ [ELCA Vietnam](https://www.elca.vn/en/about-us) _(Aug 2020 - Oct 2020)_ <br>
 <br>
 
 ## 🏆 Certifications
