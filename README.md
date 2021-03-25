@@ -32,6 +32,7 @@ To become a Automation Testing Engineer<br>
 
 ## 💬 Skills
 
+= Understand the **Scrum Framework** 🏢 <br>
 - Basic **Python programming** 🐍<br>
 - Web programming using **C# & .NET Core or Blazor** 🚀<br>
 - Using Linux-based OS 🐧<br>
