@@ -9,11 +9,11 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 <br>
 
 ## 💎 Applying position
-**Fresher .Net Web** 📛<br>
+**Fresher Test Engineer (QA/QC/Tester)** 📛<br>
 <br>
 
 ## 💡 Objectives
-Become a professional .Net web developer<br>
+To become a Automation Testing Engineer<br>
 <br>
 
 ## 👩🏼‍💻 Technical Experience
@@ -30,17 +30,19 @@ Become a professional .Net web developer<br>
 
 ## 💬 Skills
 
-- Web programming using **C# & ASP.NET Platform** 🚀<br>
+- Web programming using **C# & .NET Core or Blazor** 🚀<br>
 - Using Linux-based OS 🐧<br>
-- Docker container 🐳<br>
-- **Microsoft SQL Database** 🚅<br>
-- **Restful API** 🌐<br>
+- **Fundamental understanding of SQL** 🚅<br>
+- **Being able to understand and write Restful API** 🌐<br>
 - **English – TOEIC Listening & Reading 835** ✔️<br>
+_(expired: Dec 29th 2020)_
 <br>
 
 ## 📋 Projects
 
 - **[ForecastApp](https://github.com/quocthinhluu97/ForecastApp)**<br>
 _A simple web app that provides weather information of cities over the world using [openweathermap API](https://openweathermap.org/api), docker container & **ASP.Net Core**_<br>
-- **[MovieStore](https://github.com/quocthinhluu97/MovieStore)**<br>
-_A website sells movies written in **ASP.Net Core using MVC model, MSSQL Database, Entity Framework**_<br>
+- **[RSSReader](https://github.com/quocthinhluu97/RSSReader)**<br>
+_A website used to read RSS news. This project involves: **ASP.Net Core, Blazor, Restful API**_<br>
+- **[MiniBlog](https://github.com/quocthinhluu97/MiniBlog)**<br>
+_A elementary blog written using **ASP.Net Core, Blazor, Restful API, Entity Framework, MSSQL**_<br>
