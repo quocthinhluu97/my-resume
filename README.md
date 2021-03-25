@@ -7,7 +7,7 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 **Degree Classification:** [Good](https://dictionary.cambridge.org/vi/dictionary/english/good)<br>
 **Email:** [quocthinhluu97@gmail.com](mailto:quocthinhluu97@gmail.com) 📬 <br> 
 **Github:** [Github](https://github.com/quocthinhluu97/) 💻 <br>
-**Telephone number:** [0948595047](https://dictionary.cambridge.org/vi/dictionary/english/good) 📳<br>
+**Telephone number:** [0948 595 047](https://dictionary.cambridge.org/vi/dictionary/english/good) 📳<br>
 <br>
 
 ## 💎 Applying position
@@ -32,7 +32,7 @@ To become a Automation Testing Engineer<br>
 
 ## 💬 Skills
 
-- Understand the **Scrum Framework** 🏢 <br>
+- Understand **Scrum Framework** 🏢 <br>
 - Basic **Python programming** 🐍<br>
 - Web programming using **C# & .NET Core or Blazor** 🚀<br>
 - Using Linux-based OS 🐧<br>
