@@ -5,9 +5,9 @@
 Graduate student at [University of Information Technology](https://www.uit.edu.vn/)<br>
 **Major:** [Information Security](https://dictionary.cambridge.org/vi/dictionary/english/information)<br> 
 **Degree Classification:** [Good](https://dictionary.cambridge.org/vi/dictionary/english/good)<br>
-**Email**[quocthinhluu97@gmail.com](mailto:quocthinhluu97@gmail.com) 📬 <br> 
+**Email:**[quocthinhluu97@gmail.com](mailto:quocthinhluu97@gmail.com) 📬 <br> 
 [Github](https://github.com/quocthinhluu97/) 💻 <br>
-[0948595047](https://dictionary.cambridge.org/vi/dictionary/english/good) 📳<br>
+**Telephone number:**[0948595047](https://dictionary.cambridge.org/vi/dictionary/english/good) 📳<br>
 <br>
 
 ## 💎 Applying position
