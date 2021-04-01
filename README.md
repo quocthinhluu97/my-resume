@@ -11,11 +11,11 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 <br>
 
 ## 💎 Applying position
-**Fresher Test Engineer (QA/QC/Tester)** 📛<br>
+**[Intern/Fresher] Test Engineer (QA/QC/Tester)** 📛<br>
 <br>
 
 ## 💡 Objectives
-To become a Automation Testing Engineer<br>
+To become an Automation Testing Engineer<br>
 <br>
 
 ## 👩🏼‍💻 Technical Experience
@@ -32,8 +32,7 @@ To become a Automation Testing Engineer<br>
 
 ## 💬 Skills
 
-- Understand **Scrum Framework** 🏢 <br>
-- Basic **Python programming** 🐍<br>
+- Understand some common SDLC: **Waterfall, Scrum, DevOps** 🏢 <br>
 - Web programming using **C# & .NET Core or Blazor** 🚀<br>
 - Using Linux-based OS 🐧<br>
 - **Fundamental understanding of SQL** 🚅<br>
