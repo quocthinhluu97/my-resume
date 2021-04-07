@@ -20,14 +20,16 @@ To become an Automation Testing Engineer<br>
 
 ## 👩🏼‍💻 Technical Experience
 
-**Internship Unix System Admin & Fresher Monitoring Admin** @ [Linkbynet Vietnam](https://www.linkbynet.com/) _(Jul 2019 - Jul 2020)_ <br>
 **Fresher ASP.NET Desktop App Developer** @ [ELCA Vietnam](https://www.elca.vn/en/about-us) _(Aug 2020 - Oct 2020)_ <br>
+**Internship Unix System Admin & Fresher Monitoring Admin** @ [Linkbynet Vietnam](https://www.linkbynet.com/) _(Jul 2019 - Jul 2020)_ <br>
+
 <br>
 
 ## 🏆 Certifications
 
-- **Complete the CCNA ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Nov 2017)_ <br>
 - **Complete the CCNP ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Apr 2018)_ <br>
+- **Complete the CCNA ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Nov 2017)_ <br>
+
 <br>
 
 ## 💬 Skills
