@@ -33,14 +33,14 @@ To become an Automation Testing Engineer<br>
 <br>
 
 ## 💬 Skills
-
+### Technical skills:
 - Understand some common SDLC: **Waterfall, Scrum, DevOps** 🏢 <br>
 - Web programming using **C# & .NET Core or Blazor** 🚀<br>
 - Using Linux-based OS 🐧<br>
 - **Fundamental understanding of SQL** 🚅<br>
 - **Being able to understand and write Restful API** 🌐<br>
-- **English – TOEIC Listening & Reading 835** ✔️<br>
-_(expired: Dec 29th 2020)_
+### Soft skills:
+- **English – Equipvalent TOEIC Listening & Reading 835** ✔️<br>
 <br>
 
 ## 📋 Projects
