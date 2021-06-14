@@ -15,7 +15,10 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 <br>
 
 ## 💡 Objectives
-To become an Automation Testing Engineer<br>
+### Short-term (1-2 years)<br>
+Become an Automation Testing Engineer<br>
+### Long-term (5-6 years)<br>
+Become an senior software QA Engineer<br>
 <br>
 
 ## 👩🏼‍💻 Technical Experience
