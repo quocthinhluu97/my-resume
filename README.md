@@ -15,9 +15,9 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 <br>
 
 ## 💡 Objectives
-### Short-term (1-2 years)<br>
+### Short-term (1-2 years) :sailboat:
 Become an Automation Testing Engineer<br>
-### Long-term (5-6 years)<br>
+### Long-term (5-6 years) :ship:
 Become an senior software QA Engineer<br>
 <br>
 
