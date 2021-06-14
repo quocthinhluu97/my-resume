@@ -21,6 +21,20 @@ Become an Automation Testing Engineer<br>
 Become an senior software QA Engineer<br>
 <br>
 
+## 💬 Skills
+### Technical skills:
+- Hand-on experience with **UI automation testing using Playwright**<br>
+- Hand-on experience with **API automation testing using Karate**<br>
+- Hand-on experience with **issues hub managing with Jira**<br>
+- Understand some common SDLC: **Waterfall, Scrum, DevOps** 🏢 <br>
+- **Web programming using C#, Javascript** 🚀<br>
+- Using Linux-based OS 🐧<br>
+- **Fundamental understanding of SQL** 🚅<br>
+- Being able to understand and write Restful API 🌐<br>
+### Soft skills:
+- **English – Equipvalent TOEIC Listening & Reading 835** ✔️<br>
+<br>
+
 ## 👩🏼‍💻 Technical Experience
 
 **Fresher ASP.NET Desktop App Developer** @ [ELCA Vietnam](https://www.elca.vn/en/about-us) _(Aug 2020 - Oct 2020)_ <br>
@@ -35,16 +49,6 @@ Become an senior software QA Engineer<br>
 
 <br>
 
-## 💬 Skills
-### Technical skills:
-- Understand some common SDLC: **Waterfall, Scrum, DevOps** 🏢 <br>
-- Web programming using **C# & .NET Core or Blazor** 🚀<br>
-- Using Linux-based OS 🐧<br>
-- **Fundamental understanding of SQL** 🚅<br>
-- **Being able to understand and write Restful API** 🌐<br>
-### Soft skills:
-- **English – Equipvalent TOEIC Listening & Reading 835** ✔️<br>
-<br>
 
 ## 📋 Projects
 
