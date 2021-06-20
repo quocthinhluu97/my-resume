@@ -7,7 +7,7 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 **Degree Classification:** [Good](https://dictionary.cambridge.org/vi/dictionary/english/good)<br>
 **Email:** [quocthinhluu97@gmail.com](mailto:quocthinhluu97@gmail.com) 📬 <br> 
 **Github:** [Github](https://github.com/quocthinhluu97/) 💻 <br>
-**Telephone number:** [0948 595 047](https://dictionary.cambridge.org/vi/dictionary/english/good) 📳<br>
+**Telephone number:** [0948 595 047](https://dictionary.cambridge.org/vi/dictionary/english/good) 📳  <br>
 <br>
 
 ## 💎 Applying position
@@ -23,9 +23,9 @@ Become an senior software QA Engineer<br>
 
 ## 💬 Skills
 ### Technical skills:
-- Hands-on experience with **UI automation testing using Playwright** 💎<br>
-- Hands-on experience with **API automation testing using Karate** 💎<br>
-- Hands-on experience with **issues hub managing with Jira** 💎<br>
+- Hands-on experience with **UI automation testing using Playwright** 💎 <br>
+- Hands-on experience with **API automation testing using Karate** 💎 <br>
+- Hands-on experience with **issues hub managing with Jira** 💎 <br>
 - Understand some common SDLC: **Waterfall, Scrum, DevOps** 🏢 <br>
 - **Web programming using C#, Javascript** 🚀<br>
 - Using Linux-based OS 🐧<br>
