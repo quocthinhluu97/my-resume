@@ -23,9 +23,9 @@ Become an senior software QA Engineer<br>
 
 ## 💬 Skills
 ### Technical skills:
-- Hand-on experience with **UI automation testing using Playwright** 💎<br>
-- Hand-on experience with **API automation testing using Karate** 💎<br>
-- Hand-on experience with **issues hub managing with Jira** 💎<br>
+- Hands-on experience with **UI automation testing using Playwright** 💎<br>
+- Hands-on experience with **API automation testing using Karate** 💎<br>
+- Hands-on experience with **issues hub managing with Jira** 💎<br>
 - Understand some common SDLC: **Waterfall, Scrum, DevOps** 🏢 <br>
 - **Web programming using C#, Javascript** 🚀<br>
 - Using Linux-based OS 🐧<br>
