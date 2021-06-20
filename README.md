@@ -15,17 +15,17 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 <br>
 
 ## 💡 Objectives
-### Short-term (1-2 years) :sailboat:
+### Short-term (1-2 years) 🗼
 Become an Automation Testing Engineer<br>
-### Long-term (5-6 years) :ship:
+### Long-term (5-6 years) 🚢
 Become an senior software QA Engineer<br>
 <br>
 
 ## 💬 Skills
 ### Technical skills:
-- Hand-on experience with **UI automation testing using Playwright** :white_check_mark:<br>
-- Hand-on experience with **API automation testing using Karate** :white_check_mark:<br>
-- Hand-on experience with **issues hub managing with Jira** :white_check_mark:<br>
+- Hand-on experience with **UI automation testing using Playwright** 💎<br>
+- Hand-on experience with **API automation testing using Karate** 💎<br>
+- Hand-on experience with **issues hub managing with Jira** 💎<br>
 - Understand some common SDLC: **Waterfall, Scrum, DevOps** 🏢 <br>
 - **Web programming using C#, Javascript** 🚀<br>
 - Using Linux-based OS 🐧<br>
