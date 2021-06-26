@@ -40,9 +40,9 @@ Become an senior software QA Engineer<br>
 ## 👩🏼‍💻 Technical Experience
 
 **Fresher ASP.NET Desktop App Developer** @ [ELCA Vietnam](https://www.elca.vn/en/about-us) _(Aug 2020 - Oct 2020)_ <br>
-[Programing] - [Unit Test] <br>
+[Programing] - [Unit Test] - [End-to-end testing]<br>
 **Internship Unix System Admin & Fresher Monitoring Admin** @ [Linkbynet Vietnam](https://www.linkbynet.com/) _(Jul 2019 - Jul 2020)_ <br>
-[Script programming] - [Server monitoring using Zabbix] <br>
+[Script programming] - [Server monitoring using Zabbix] - [URL monitoring using internal tools]<br>
 <br>
 
 ## 📋 Projects
