@@ -7,7 +7,7 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 **Degree Classification:** [Good](https://dictionary.cambridge.org/vi/dictionary/english/good)<br>
 **Email:** [quocthinhluu97@gmail.com](mailto:quocthinhluu97@gmail.com) 📬 <br> 
 **Github:** [Github](https://github.com/quocthinhluu97/) 💻 <br>
-**Telephone number:** [0948 595 047](https://dictionary.cambridge.org/vi/dictionary/english/good) 📳  <br>
+**Telephone number:** [0948 595 047](https://dictionary.cambridge.org/vi/dictionary/english/good) <br>
 <br>
 
 ## 💎 Applying position
@@ -40,13 +40,14 @@ Become an senior software QA Engineer<br>
 ## 👩🏼‍💻 Technical Experience
 
 **Fresher ASP.NET Desktop App Developer** @ [ELCA Vietnam](https://www.elca.vn/en/about-us) _(Aug 2020 - Oct 2020)_ <br>
-### Programing - Unit Test
+[Programing] - [Unit Test] <br>
 **Internship Unix System Admin & Fresher Monitoring Admin** @ [Linkbynet Vietnam](https://www.linkbynet.com/) _(Jul 2019 - Jul 2020)_ <br>
-### Script programming - Server monitoring
+[Script programming] - [Server monitoring using Zabbix] <br>
 <br>
 
 ## 📋 Projects
-
+- **Student Mangament Program** <br>
+_A Windows program used to manage student's information
 - **[ForecastApp](https://github.com/quocthinhluu97/ForecastApp)**<br>
 _A simple web app that provides weather information of cities over the world using [openweathermap API](https://openweathermap.org/api), docker container & **ASP.Net Core**_<br>
 - **[RSSReader](https://github.com/quocthinhluu97/RSSReader)**<br>
