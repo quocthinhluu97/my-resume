@@ -11,7 +11,7 @@ Graduate student at [University of Information Technology](https://www.uit.edu.v
 <br>
 
 ## 💎 Applying position
-**[Intern/Fresher] Test Engineer (QA/QC/Tester)** 📛<br>
+**[Intern/Fresher] Test Engineer (QA/QC/Tester)** 📛 <br>
 <br>
 
 ## 💡 Objectives
@@ -22,33 +22,28 @@ Become an senior software QA Engineer<br>
 <br>
 
 ## 💬 Skills
+### Testing skills:
+- Hands-on experience with **UI automation testing using Playwright**<br>
+- Hands-on experience with **API automation testing using Karate**<br>
+- Hands-on experience with **issues hub managing with Jira**<br>
 ### Technical skills:
-- Hands-on experience with **UI automation testing using Playwright** 💎 <br>
-- Hands-on experience with **API automation testing using Karate** 💎 <br>
-- Hands-on experience with **issues hub managing with Jira** 💎 <br>
 - Understand some common SDLC: **Waterfall, Scrum, DevOps** 🏢 <br>
 - **Web programming using C#, Javascript** 🚀<br>
-- Using Linux-based OS 🐧<br>
-- **Fundamental understanding of SQL** 🚅<br>
-- Being able to understand and write Restful API 🌐<br>
+- **Fundamental understanding of SQL** 🚅 <br>
+- Being able to understand and write Restful API 🌐 <br>
+- Fundamental understanding of computer network Windows Server and Linux-based OS 🐧 <br>
 ### Soft skills:
 - **English – Equipvalent TOEIC Listening & Reading 835** ✔️<br>
+
 <br>
 
 ## 👩🏼‍💻 Technical Experience
 
 **Fresher ASP.NET Desktop App Developer** @ [ELCA Vietnam](https://www.elca.vn/en/about-us) _(Aug 2020 - Oct 2020)_ <br>
+### Programing - Unit Test
 **Internship Unix System Admin & Fresher Monitoring Admin** @ [Linkbynet Vietnam](https://www.linkbynet.com/) _(Jul 2019 - Jul 2020)_ <br>
-
+### Script programming - Server monitoring
 <br>
-
-## 🏆 Certifications
-
-- **Complete the CCNP ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Apr 2018)_ <br>
-- **Complete the CCNA ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Nov 2017)_ <br>
-
-<br>
-
 
 ## 📋 Projects
 
@@ -58,3 +53,10 @@ _A simple web app that provides weather information of cities over the world usi
 _A website used to read RSS news. This project involves: **ASP.Net Core, Blazor, Restful API**_<br>
 - **[MiniBlog](https://github.com/quocthinhluu97/MiniBlog)**<br>
 _A elementary blog written using **ASP.Net Core, Blazor, Restful API, Entity Framework, MSSQL**_<br>
+
+<br>
+
+## 🏆 Certifications
+
+- **Complete the CCNP ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Apr 2018)_ <br>
+- **Complete the CCNA ROUTING & SWITCHING course** @ [NEO Training Center](https://neo.edu.vn/) _(Nov 2017)_ <br>
